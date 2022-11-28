@@ -14,7 +14,6 @@ $(document).ready(function(){
     var expr = $('input').val();
     var res = eval(expr);
     $('input:text').val(res);
-    alert(res);
   })
   
 });
