@@ -1,0 +1,33 @@
+.focusedInput {
+    border-color: rgba(82,168,236,.8);
+    outline: 0;
+    outline: thin dotted \9;
+    -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+    box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
+}
+body {
+  background-color: #000000;
+}
+.form-inline{
+  text-align: center;
+}
+.col-xs-1{
+  margin-right: 8px;
+  margin-top: 44px;
+}
+#small {
+  margin-left: 2px;
+}
+h1 {
+  font-size: 56px;
+  margin-bottom: 20px;
+  font-family: Georgia;
+}
+.btn {
+  font-family: Georgia;
+  font-size: 22px
+}
+input {
+  text-align: right;
+  font-family: cabin sketch;
+}
